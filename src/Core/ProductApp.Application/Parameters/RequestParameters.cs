@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ProductApp.Application.Parameters
 {
     public class RequestParameters
-    {
+    {   //Base Request her requestte kullanabiliriz 
         public int PageNumber { get; set; }
         public int PageSize { get; set; }
 
